@@ -1,6 +1,5 @@
 """Example of using API4AI brand recognition."""
 import asyncio
-import os
 import sys
 
 import aiohttp
@@ -12,7 +11,7 @@ import aiohttp
 #
 # Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
 # For more details visit:
-#   https://rapidapi.com/api4ai-api4ai-default/api/brand-recognition/details
+#   https://rapidapi.com/api4ai-api4ai-default/api/face-detection/details
 MODE = 'demo'
 
 
@@ -51,7 +50,6 @@ async def main():
                                 headers=OPTIONS[MODE]['headers']) as response:
             resp_json = await response.json()
             resp_text = await response.text()
-
 
         print(f'💬 Raw response:\n{resp_text}\n')
 
