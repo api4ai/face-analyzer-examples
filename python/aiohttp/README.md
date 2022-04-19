@@ -41,5 +41,5 @@ use contact us directly.
 
 📩 Email: hello@api4.ai
 🔗 Website: https://api4.ai
-🤖 Telegram demo bot: https://t.me/a4a_img_labelling_bot
-🔵 Our API at RapidAPI marketplace: https://rapidapi.com/api4ai-api4ai-default/api/general-classification1/details
+🤖 Telegram demo bot: https://t.me/a4a_face_analyzer_bot
+🔵 Our API at RapidAPI marketplace: https://rapidapi.com/api4ai-api4ai-default/api/face-detection14/details
