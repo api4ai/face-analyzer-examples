@@ -1,6 +1,6 @@
 # API4AI face detection and recognition sample
 
-This directory contains a minimalistic sample that sends requests to the API4AI Brand Recognition API.
+This directory contains a minimalistic sample that sends requests to the API4AI Face Detection and Recognition API.
 The sample is implemented in `python` using [requests](https://pypi.org/project/requests/) module.
 
 
