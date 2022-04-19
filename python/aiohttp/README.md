@@ -1,6 +1,6 @@
 # API4AI face detection and recognition sample
 
-This directory contains a minimalistic sample that sends requests to the API4AI face detection and recognition API. The sample is implemented in `python` using [aiohttp](https://pypi.org/project/aiohttp/) module.
+This directory contains a minimalistic sample that sends requests to the API4AI Face Detection and Recognition API. The sample is implemented in `python` using [aiohttp](https://pypi.org/project/aiohttp/) module.
 
 
 ## Overview
