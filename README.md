@@ -29,9 +29,9 @@ This Face Detection API offers a fully-fledged face detection system:
    Face Detection API is a go-to solution for photo apps, security/surveillance projects, visa centers, etc.
 
 <div align="center">
-<img width="400" src="https://storage.googleapis.com/api4ai-static/rapidapi/face_analysis_1.png"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="400" src="https://storage.googleapis.com/api4ai-static/rapidapi/face_analysis_2.png"/>
+<img width="350" src="https://storage.googleapis.com/api4ai-static/visuals/face_analysis_1.jpg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="350" src="https://storage.googleapis.com/api4ai-static/visuals/face_analysis_2.jpg"/>
 </div>
 
 ## 🛠 Technologies
