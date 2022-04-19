@@ -46,7 +46,7 @@ async def main():
             data = {'image': open(image, 'rb')}
         # Make request.
         async with session.post(OPTIONS[MODE]['url'],
-                                data=data,  # noqa
+                                data=data,
                                 headers=OPTIONS[MODE]['headers']) as response:
             resp_json = await response.json()
             resp_text = await response.text()
