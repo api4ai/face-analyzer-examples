@@ -1,4 +1,7 @@
+#!/usr/bin/env python3
+
 """Example of using API4AI brand recognition."""
+
 import asyncio
 import sys
 
