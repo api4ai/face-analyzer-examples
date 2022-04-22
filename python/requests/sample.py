@@ -57,8 +57,8 @@ if __name__ == '__main__':
     # Print raw response.
     print(f'💬 Raw response:\n{response.text}\n')
 
-    # Parse response and print recognized faces count.
+    # Parse response and print detected faces count.
     faces_count = len(
         response.json()['results'][0]['entities'][0]['objects'])
 
-    print(f'💬 Faces recognized: {faces_count}')
+    print(f'💬 Faces detected: {faces_count}')
