@@ -56,10 +56,10 @@ async def main():
 
         print(f'💬 Raw response:\n{resp_text}\n')
 
-        # Parse response and print recognized faces count.
+        # Parse response and print detected faces count.
         faces_count = len(resp_json['results'][0]['entities'][0]['objects'])
 
-        print(f'💬 Faces recognized: {faces_count}')
+        print(f'💬 Faces detected: {faces_count}')
 
 
 if __name__ == '__main__':
