@@ -13,7 +13,7 @@ using RestSharp;
  *
  * Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
  * For more details visit:
- *   https://rapidapi.com/api4ai-api4ai-default/api/face-detection/details
+ *   https://rapidapi.com/api4ai-api4ai-default/api/face-detection14/details
  */
 
 const String MODE = "demo";
