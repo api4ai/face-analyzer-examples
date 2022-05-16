@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// Example of using API4AI brand recognition.
+// Example of using API4AI face analyzer.
 const fs = require('fs')
 const path = require('path')
 const axios = require('axios').default
