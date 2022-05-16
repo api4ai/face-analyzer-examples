@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
     // Make request.
     // eslint-disable-next-line  no-undef -- axios appended to the html file via cdn.
-    axios.post(OPTIONS[MODE].url, form)
+    axios.post(OPTIONS[MODE].url, form, { headers: OPTIONS[MODE].headers })
       .then(function (response) {
         // Print raw response.
         raw.textContent = JSON.stringify(response.data, undefined, 2)
