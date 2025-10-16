@@ -57,7 +57,8 @@ This project run to help API users with ready-to-use examples in a set of the mo
 
 ## 🔗 Links
 
-* Learn more about API on [api4.ai](https://api4.ai/docs/face-analysis?utm_source=face_analyzer_example_repo&utm_medium=readme&utm_campaign=examples)
+* Sign up at [API4AI Developer Portal](https://portal.api4.ai)
+* Learn more about API at [api4.ai](https://api4.ai/docs/face-analysis?utm_source=face_analyzer_example_repo&utm_medium=readme&utm_campaign=examples)
 * Try API via [🤖 telegram demo bot](https://t.me/a4a_face_analyzer_bot)
 * View API on [RapidAPI marketplace](https://rapidapi.com/api4ai-api4ai-default/api/face-detection14/details)
 
