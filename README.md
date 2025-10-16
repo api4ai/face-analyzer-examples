@@ -1,7 +1,7 @@
 # API4AI Samples: Face Detection and Recognition
 
 <div align="center">
-<a target="_blank" href="https://api4.ai?utm_source=face_analyzer_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
+<a target="_blank" href="https://api4.ai?utm_source=face_analyzer_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://static.api4.ai/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
 </div>
 
 
@@ -29,9 +29,9 @@ This Face Detection API offers a fully-fledged face detection system:
    Face Detection API is a go-to solution for photo apps, security/surveillance projects, visa centers, etc.
 
 <div align="center">
-<img width="350" src="https://storage.googleapis.com/api4ai-static/visuals/face_analysis_1.jpg"/>
+<img width="350" src="https://static.api4.ai/visuals/face_analysis_1.jpg"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="350" src="https://storage.googleapis.com/api4ai-static/visuals/face_analysis_2.jpg"/>
+<img width="350" src="https://static.api4.ai/visuals/face_analysis_2.jpg"/>
 </div>
 
 ## 🛠 Technologies
